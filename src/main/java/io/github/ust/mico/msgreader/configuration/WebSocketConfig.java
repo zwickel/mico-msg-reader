@@ -1,4 +1,4 @@
-package io.github.ust.mico.msgvalidator.configuration;
+package io.github.ust.mico.msgreader.configuration;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.messaging.simp.config.MessageBrokerRegistry;

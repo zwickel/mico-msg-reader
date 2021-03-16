@@ -1,4 +1,4 @@
-package io.github.ust.mico.msgvalidator.configuration;
+package io.github.ust.mico.msgreader.configuration;
 
 import lombok.Getter;
 import lombok.Setter;

@@ -1,4 +1,4 @@
-package io.github.ust.mico.msgvalidator;
+package io.github.ust.mico.msgreader;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;

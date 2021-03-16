@@ -1,7 +1,7 @@
-package io.github.ust.mico.msgvalidator.kafka;
+package io.github.ust.mico.msgreader.kafka;
 
-import io.github.ust.mico.msgvalidator.MessageListener;
-import io.github.ust.mico.msgvalidator.configuration.KafkaConfig;
+import io.github.ust.mico.msgreader.MessageListener;
+import io.github.ust.mico.msgreader.configuration.KafkaConfig;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.kafka.clients.consumer.ConsumerConfig;
 import org.apache.kafka.common.serialization.StringDeserializer;

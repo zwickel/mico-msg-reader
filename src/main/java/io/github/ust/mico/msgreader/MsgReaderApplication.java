@@ -1,4 +1,4 @@
-package io.github.ust.mico.msgvalidator;
+package io.github.ust.mico.msgreader;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -7,10 +7,10 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.web.client.RestTemplate;
 
 @SpringBootApplication
-public class MsgValidatorApplication {
+public class MsgReaderApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(MsgValidatorApplication.class, args);
+        SpringApplication.run(MsgReaderApplication.class, args);
     }
 
 }
